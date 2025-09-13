@@ -76,7 +76,7 @@
     line-height:1;
   }
   .title .name{font-size:18px; font-weight:700; color:#2b2b2b}
-  .title .role{font-size:13px; color:var(--muted)}
+  .title .role{font-size:13px; color:#0e0e0e;}
 
   nav{
     display:flex;
@@ -85,7 +85,7 @@
   }
   nav a{
     text-decoration:none;
-    color:var(--muted);
+    color: #0e0e0e;
     font-weight:600;
     padding:8px 10px;
     border-radius:10px;
@@ -845,4 +845,5 @@ form button {
   #typing-animation {
     color: #aaa;  /* light gray text for mobile */
     border-right: 2px solid #aaa; /* lighter cursor */
+
   }}
