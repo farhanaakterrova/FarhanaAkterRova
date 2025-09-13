@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://farhanaakterrova.github.io/Farhana-Akter-Rova/sitemap.xml
+Sitemap: https://farhanaakterrova.github.io/FarhanaAkterRova/sitemap.xml
